@@ -3,3 +3,6 @@ pandas
 numpy
 scipy
 ipywidgets
+setuptools
+altair==5.4.1
+scikit-learn
